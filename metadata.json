@@ -13,9 +13,13 @@
     "properties": {
       "files": [
         {
-          "uri": "https://raw.githubusercontent.com/loopcreativeandy/assets/main/update.png",
-          "type": "image/png"
-        }
+          "uri": "https://neome.com/video/makeamazonpay.jpg",
+          "type": "image/jpeg"
+        },
+        {
+          "uri": "https://neome.com/movies/kiddo.mp4",
+          "type": "video/mp4"
+        },
       ],
       "category": "image",
       "creators": [
