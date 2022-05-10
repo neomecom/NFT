@@ -1,0 +1,32 @@
+{
+    "name": "Modified Andy NFT",
+    "symbol": "ATT",
+    "description": "this is not a good setup anymore!",
+    "seller_fee_basis_points": 10000,
+    "image": "https://neome.com/video/makeamazonpay.jpg",
+    "attributes": [
+    ],
+    "collection": {
+      "name": "Unhidden Andy",
+      "family": "Andy NFTs"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://neome.com/video/makeamazonpay.jpg",
+          "type": "image/jpeg"
+        },
+        {
+          "uri": "https://neome.com/movies/kiddo.mp4",
+          "type": "video/mp4"
+        },
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "CreatorVknWbvxnF1a2jtKFB1sBaWgq4Aj2buNo5MYN",
+          "share": 100
+        }
+      ]
+    }
+  }
