@@ -1,9 +1,10 @@
 {
-    "name": "Modified Andy NFT",
-    "symbol": "ATT",
-    "description": "this is not a good setup anymore!",
-    "seller_fee_basis_points": 10000,
-    "animation_url": "https://neome.com/movies/kiddo.mp4",
+    "name": "Neo NFT",
+    "symbol": "NFT+",
+    "description": "Love it",
+    "seller_fee_basis_points": 0,
+    "image": "https://neome.com/token/send.png?ext=png",
+    "animation_url": "https://neome.com/movies/kiddo.mp4?ext=mp4",
      "external_url": "https://neome.com",
     "collection": {
       "name": "NEO NFT 1",
@@ -12,7 +13,7 @@
     "properties": {
       "files": [
         {
-          "uri": "https://neome.com/movies/kiddo.mp4",
+          "uri": "https://neome.com/movies/kiddo.mp4?ext=mp4",
           "type": "video/mp4"
         }
       ],
